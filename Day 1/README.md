@@ -7,7 +7,7 @@
 <summary>Explain the use of JavaScript ( or What you can do using a JavaScript)</summary>
 <b>
 → Javascript is a high-level programming language that can be used for full-stack web development for various platforms.
-But originally JS was developed for enhancing the frontend of a webpage and now it is enriched with a lot of functionalities(like OOPS, API DEVELOPMENT, ETC) and also become very stable and developer-friendly with time.
+But originally JS was developed for enhancing the frontend of a webpage and now it is enriched with a lot of functionalities(like OOPS, API Development, etc) and also become very stable and developer-friendly with time.
 </b></details>
 <br>
 <details>
