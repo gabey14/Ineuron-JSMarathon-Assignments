@@ -40,10 +40,11 @@ It is a platform for creating scalable and robust applications.
 ```
 
 </b></details>
+<br>
 
 <details>
 <summary>JavaScript is asynchronous or synchronous.</summary><b>
-→ JavaScript shows both synchronous and asynchronous behaviour. 
+→ JavaScript shows both synchronous and asynchronous behavior. 
 If a less time-consuming task is executing then the execution will be done synchronously, but if a more time-consuming task kicks in the stack then JS starts showing its asynchronous behavior.
 Most asynchronous JavaScript operations have two primary triggers i.e. WebAPIs and `promises``.
 </b></details>
@@ -59,6 +60,7 @@ But this approach can be harmful if a time-consuming task is executed.
 In this case, the JavaScript engine halts the execution of the other sequential code. So to rescue JS manages these situations with the help of `WebAPI's` and `promises`.
 If it finds any function which is going to take time then the time-consuming function will be handled asynchronously.
 </b></details>
+<br>
 
 <details>
 <summary>Explain DOM in your own word.</summary><b>
